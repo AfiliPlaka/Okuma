@@ -1,6 +1,6 @@
-<p style="text-align:center;">
+<a href="https://recepemreors.com.tr/">
    <img src="assets/logo.png" alt="Logo">
-</p>
+</a>
 
 # Plaka Okuma ve Yönetimi
 Python tabanlı otomatik plaka tanıma ve güvenlik yönetim sistemi, plaka okuma ve yönetimini etkili bir şekilde optimize etmeyi hedefler. Proje, [YOLOv8](https://github.com/ultralytics/ultralytics)
