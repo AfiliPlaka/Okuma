@@ -1,5 +1,5 @@
 <a align="center" href="https://recepemreors.com.tr/" target="_blank">
-   <img src="assets/logo.png" alt="Logo">
+   <img align="left" src="assets/logo.png" alt="Logo">
 </a>
 
 # Plaka Okuma ve Yönetimi
