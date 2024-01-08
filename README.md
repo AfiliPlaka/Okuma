@@ -1,4 +1,4 @@
-<a href="https://recepemreors.com.tr/">
+<a href="https://recepemreors.com.tr/" target="_blank">
    <img src="assets/logo.png" alt="Logo">
 </a>
 
@@ -55,7 +55,7 @@ test.csv adlı CSV dosyasında her karenin detayları bulunmaktadır. Bu veriler
 
 <h3 style="text-align:center;">İletişim</h3>
 <p style="text-align:center;">
-   <a href="mailto:plakaafili@gmail.com">E-posta Adresimiz</a>
+   <a href="mailto:plakaafili@gmail.com" target="_blank">E-posta Adresimiz</a>
 </p>
 
 <h3 style="text-align:center;">Web Sitesi</h3>
