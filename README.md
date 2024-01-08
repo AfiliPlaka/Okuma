@@ -1,4 +1,4 @@
-<a href="https://recepemreors.com.tr/" target="_blank">
+<a align="center" href="https://recepemreors.com.tr/" target="_blank">
    <img src="assets/logo.png" alt="Logo">
 </a>
 
